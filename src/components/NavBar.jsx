@@ -66,7 +66,7 @@ function NavBar() {
             >
             
                 
-                <Link to={link} smooth duration={500}>
+                <Link to={link} onClick={()=>{setNav(!nav)}} smooth duration={500}>
               {link}
             </Link>
               
