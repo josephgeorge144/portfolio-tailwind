@@ -16,7 +16,7 @@ const Home = () => {
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
 
-           I'm a Full Stack Developer with a solid background in JavaScript frameworks like ReactJS and Vue.js and is also intimately familiar with the MERN (MongoDB, Express, React, and Node.js) software stack.
+           I'm a Full Stack Developer with a solid background in JavaScript frameworks like ReactJS and NodeJS and is also intimately familiar with the MERN (MongoDB, Express, React, and Node.js) software stack.
           </p>
 
           <div>
